@@ -4,13 +4,11 @@
     <project name="MaxLeggieri/android_device_samsung_gts28wifi"
         path="device/samsung/gts28wifi"
         remote="github"
-        revision="refs/heads/master"
         />
 
     <project name="MaxLeggieri/android_device_samsung_gts2-common"
         path="device/samsung/gts2-common"
         remote="github"
-        revision="refs/heads/master"
         />
     
     
